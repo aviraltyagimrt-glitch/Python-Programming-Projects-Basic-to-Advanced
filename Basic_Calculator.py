@@ -133,7 +133,7 @@ while True:
 
     elif (a == 4):
         print("Thank you for using the calculator")
-        print("Developed by Aviral Tyagi")
+        print("Developed by Aviral Tyagi ...")
         break
     else:
         print("Enter the number from the choices mentioned above !!")
