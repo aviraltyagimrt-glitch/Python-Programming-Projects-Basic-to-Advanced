@@ -12,6 +12,7 @@ match (a):
         print("Good Evening")
     case 4:
         print("Good Night")
-    case _:
+    case _ if a != 8:
         print("Please enter the number from the options mentioned above")
-
+    case _ if a == 8:
+        print("Each and everything should be good for you")
