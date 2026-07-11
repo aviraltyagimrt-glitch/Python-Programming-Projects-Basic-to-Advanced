@@ -4,5 +4,11 @@ i = 1
 while (i <= n):
     print(f"{z} x {i} = {z*i}")
     i+=1
+i = 5
+while(i > 0):
+    print(i)
+    i = i-1
+
   
 
+ 
