@@ -13,3 +13,5 @@ for z in range(1,2001,5):
     print(z)
 for x in range (1,12,3):
     print(x+8)
+for c in range(5,0,-1):
+    print(c)
