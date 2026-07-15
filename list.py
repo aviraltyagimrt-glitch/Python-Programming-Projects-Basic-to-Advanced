@@ -38,3 +38,4 @@ L2.extend(z)
 print(L2)
 x = L2 + z
 print(x)
+print(len(L))
