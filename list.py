@@ -31,7 +31,7 @@ print(L2)
 print(m)
 L.insert(1,8)
 print(L)
-L[4].insert(2,27) # You cannot insert inside nested list using this method 
+L[4].insert(2,27) # You cannot insert inside nested list using this method (index,value)
 print(L)
 z = [300,500,800]
 L2.extend(z)
