@@ -58,6 +58,7 @@ while(True):
         break
     else:
         print("Please enter the value from the options mentioned above\n")
+        print("Thanks for playing the Game\nDeveloped by Aviral Tyagi")
         break
 
          
