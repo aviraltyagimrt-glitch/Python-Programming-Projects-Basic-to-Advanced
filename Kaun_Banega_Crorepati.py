@@ -8,7 +8,7 @@ def lifeline():
             continue
         else:
             print(f"Thanks for playing {a}\nYou successfully exited the game")
-            print("Developed by Aviral Tyagi")
+            print("Developed by Aviral Tyagi") # Comment
             break
 
 call = 0
